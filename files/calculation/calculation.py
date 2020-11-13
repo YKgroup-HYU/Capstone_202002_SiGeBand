@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pylab as plt
-import effectivemass
-import makematrix
+from . import effectivemass
+from . import makematrix
 
 def mobility_Si(N_A):
     x = 54.3+406.9/(1+(N_A/2.35e17)*0.88)

@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pylab as plt
-import caculation.calculation as cal
+import calculation.calculation as cal
 
 # list setting
 Soref_Refraction_index = []

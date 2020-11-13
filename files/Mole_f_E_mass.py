@@ -1,4 +1,4 @@
-import caculation.effectivemass as e_mass
+import calculation.effectivemass as e_mass
 from matplotlib import pyplot as plt
 import numpy as np
 
