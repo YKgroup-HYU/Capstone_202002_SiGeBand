@@ -1,6 +1,6 @@
-import etc.makematrix
+import calculation.makematrix
 from matplotlib import pyplot as plt
-import etc.effectivemass as ef
+import calculation.effectivemass as ef
 import numpy as np
 
 #Valence band calculation of SiGe on Si by k-p

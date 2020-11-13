@@ -1,5 +1,5 @@
 import numpy as np
-import etc.calculation as cal
+import caculation.calculation as cal
 import matplotlib.pylab as plt
 
 # list setting
